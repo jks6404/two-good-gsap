@@ -41,7 +41,7 @@ body{
 }
 
 #nav-part1{
-    height: 85px;
+    height: 83px;
     overflow: hidden;
 }
 
@@ -73,7 +73,7 @@ body{
 #cursor{
     height: 150px;
     width: 150px;
-    background-color: blanchedalmond;
+    background-color: rgb(216, 136, 215);
     border-radius: 50%;
     position: fixed;
     transform: translate(-50%,-50%) scale(0);
@@ -157,7 +157,7 @@ body{
     border-radius: 50px;
     position: absolute;
     z-index: 9;
-    background-color: palegoldenrod ;
+    background-color: rgb(216, 136, 215) ;
 }
 
 #page2 .elem .dets:hover{
@@ -308,7 +308,7 @@ body{
         border-radius: 50px;
         position: absolute;
         z-index: 9;
-        background-color: palegoldenrod ;
+        background-color: rgb(216, 136, 215) ;
     }
 
     #page3{
@@ -335,7 +335,7 @@ body{
     }
     
     .child img{
-        height:100% ;
+        height:80% ;
     }
     
     
